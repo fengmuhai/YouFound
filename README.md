@@ -1,4 +1,4 @@
 # YouFound
-毕业设计项目--优房平台
+The graduation design project, an housing rental sales platform.
 
-有时人生要做减法，才能再次出发 -- 2020-07-20
+Sometimes life needs to be subtracted to start again -- 2020-07-20
