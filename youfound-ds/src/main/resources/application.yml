@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    hikari:
+      primary:
+        jdbc-url: jdbc:mysql://localhost:3306/youfound
+        username: youfound
+        password: youfound@20200720

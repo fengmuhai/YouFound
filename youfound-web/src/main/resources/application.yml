@@ -1,0 +1,9 @@
+server:
+  port: 8810 # 项目端口
+
+spring:
+  application:
+    name: youfound-web
+  profiles:
+    include:
+      - youfound-ds   # 通过profiles include配置数据源
